@@ -196,7 +196,9 @@ file or folder.
 
 ## Playing with the downloaded data set
 
-**Do it now:** Download the data set.
+**Do it now:** Download and decompress the data set [here](https://github.com/abelsiqueira/codata-ictp-saifr-2017-12-04/raw/master/data_process_example.tar.gz).
+Pay attention to where you decompress it.
+
 **Do it now:** Navigate to the `data_process_example` folder.
 
 In this folder there is program `process_data`, which we'll use to
