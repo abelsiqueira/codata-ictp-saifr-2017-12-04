@@ -83,10 +83,10 @@ essentially all you need to navigate the Linux file system.
 
 #### Exercises
 
-1. Navigate do the `\`, `\bin`, and `\usr` using the full path.
+1. Navigate do the `/`, `/bin`, and `/usr` using the full path.
 Use `pwd` and `ls` in each location.
 2. Navigate to your home folder by issuing the full path.
-3. Go backwards to the `\home` folder, without using the full path.
+3. Go backwards to the `/home` folder, without using the full path.
 
 ### Special folders
 
